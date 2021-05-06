@@ -1,0 +1,9 @@
+canvas {
+	border: 2px solid black;
+    background-color: black;
+    display: block;
+    margin: 0 auto;
+}
+video {
+	display: none;
+}
